@@ -152,6 +152,8 @@ Strengths by Difficulty Levels: ['Medium', 'Hard']
 Weaknesses by Topics: ['Human Physiology PYQ', 'Human Physiology (15)', 'Reproduction', 'PRINCIPLES OF INHERITANCE AND VARIATION PYQ', 'REPRODUCTIVE HEALTH PYQ', 'Human Physiology (14)']
 Weaknesses by Difficulty Levels: ['Easy', 'Medium']
 ```
+## Visualization
+![Graphical  representaion of average score by topic](picture.png)
 
 ## Contribution
 
