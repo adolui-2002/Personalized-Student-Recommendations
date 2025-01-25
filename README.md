@@ -94,7 +94,7 @@ Personalized-Student-Recommendations/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 ## Approach Description
